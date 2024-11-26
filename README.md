@@ -14,7 +14,7 @@
 
 为了方便大家快速选择合适的镜像网站，以下是经过我们整理和推荐的几个ChatGPT镜像站点：
 
-### **2024年11月26日最新更新**
+### **2024年11月27日最新更新**
 
 - **[yixiaai.com](https://www.yixiaai.com/)**: 支持模型包括GPT-4o、GPT-4、GPT-o1，特色功能如MJ绘画、AIPPT。
 - **[chat.lify.vip](https://chat.lify.vip/)**: 提供GPT-4及以下版本支持，附加文件阅读和AIPPT功能。
